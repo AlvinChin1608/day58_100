@@ -12,6 +12,8 @@ Consider using Bootstrap when you want to ensure compatibility across devices an
 <head> <link href="....</head>
 </body><script scr="....
 
+svg are the icons
+
 https://getbootstrap.com/docs/4.0/utilities/spacing/
 
 ![](https://github.com/AlvinChin1608/day58_100/blob/main/gif/ScreenRecording2024-07-23at18.57.30-ezgif.com-video-to-gif-converter.gif)
