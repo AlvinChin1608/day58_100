@@ -6,8 +6,8 @@ Boostrap is a CSS Framework
 HTML -> Structure
 CSS -> style
 
-Bootstrap -> they integrate into the HTML, this can cause class bloat, and challenging to customise
-Consider using bootstrap when you want tot ensure compatibility across devices and fast deployment
+Bootstrap -> They integrate into the HTML, which can cause class bloat, and challenging to customise
+Consider using Bootstrap when you want to ensure compatibility across devices and fast deployment
 
 <head> <link href="....</head>
 </body><script scr="....
